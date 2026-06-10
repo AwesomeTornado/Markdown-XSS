@@ -1,0 +1,5 @@
+<script>
+
+  window.alert("You've been hit with an XSS attack!");
+
+</script>
